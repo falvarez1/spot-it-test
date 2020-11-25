@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "this is a test",
+  "custom-object": {
+    "custom-line": "some custom line",
+    "custom-text": "this is the custom text value"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "some item here"
+    }
+  ]
+}
