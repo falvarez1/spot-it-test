@@ -1,0 +1,1550 @@
+{
+  "situations": [
+    {
+      "situationId": 1,
+      "description": "A change of some kind"
+    },
+    {
+      "situationId": 2,
+      "description": "A comment or look that \nyou interpreted as negative"
+    },
+    {
+      "situationId": 3,
+      "description": "Afraid of something - travel, bridges, elevators, etc."
+    },
+    {
+      "situationId": 4,
+      "description": "Annoyed"
+    },
+    {
+      "situationId": 5,
+      "description": "Being criticized"
+    },
+    {
+      "situationId": 6,
+      "description": "Concerned what other people think"
+    },
+    {
+      "situationId": 7,
+      "description": "Conflict/disagreement"
+    },
+    {
+      "situationId": 8,
+      "description": "Death"
+    },
+    {
+      "situationId": 9,
+      "description": "Disappointed in myself or others"
+    },
+    {
+      "situationId": 10,
+      "description": "Disruption"
+    },
+    {
+      "situationId": 11,
+      "description": "Distrust of yourself or others"
+    },
+    {
+      "situationId": 12,
+      "description": "Family matters"
+    },
+    {
+      "situationId": 13,
+      "description": "I forgot to do something"
+    },
+    {
+      "situationId": 14,
+      "description": "Feeling alone"
+    },
+    {
+      "situationId": 15,
+      "description": "Feeling overwhelmed or out of control"
+    },
+    {
+      "situationId": 16,
+      "description": "Feeling unsafe"
+    },
+    {
+      "situationId": 17,
+      "description": "Feeling worried"
+    },
+    {
+      "situationId": 18,
+      "description": "Health issues"
+    },
+    {
+      "situationId": 19,
+      "description": "I acted inappropriately"
+    },
+    {
+      "situationId": 20,
+      "description": "I did something wrong or made a mistake"
+    },
+    {
+      "situationId": 21,
+      "description": "Legal matters"
+    },
+    {
+      "situationId": 22,
+      "description": "Money-related matters"
+    },
+    {
+      "situationId": 23,
+      "description": "Parenting issues"
+    },
+    {
+      "situationId": 24,
+      "description": "Politics"
+    },
+    {
+      "situationId": 25,
+      "description": "Relationships"
+    },
+    {
+      "situationId": 26,
+      "description": "Sleeping issues"
+    },
+    {
+      "situationId": 27,
+      "description": "Someone else did something wrong or made a mistake"
+    },
+    {
+      "situationId": 28,
+      "description": "Someone was rude to me"
+    },
+    {
+      "situationId": 29,
+      "description": "Spouse issues"
+    },
+    {
+      "situationId": 30,
+      "description": "Starting a project"
+    },
+    {
+      "situationId": 31,
+      "description": "Unmet expectations"
+    },
+    {
+      "situationId": 32,
+      "description": "Upsetting news"
+    },
+    {
+      "situationId": 33,
+      "description": "Work-related matters"
+    },
+    {
+      "situationId": 34,
+      "description": "COVID-19"
+    },
+    {
+      "situationId": 35,
+      "description": "Giving a presentation"
+    }
+  ],
+  "symptoms": [
+    {
+      "symptomId": 1,
+      "type": "thought",
+      "description": "I can't believe they did that"
+    },
+    {
+      "symptomId": 2,
+      "type": "thought",
+      "description": "I can't do it"
+    },
+    {
+      "symptomId": 3,
+      "type": "thought",
+      "description": "I can't handle this"
+    },
+    {
+      "symptomId": 4,
+      "type": "thought",
+      "description": "I can't stop thinking about it"
+    },
+    {
+      "symptomId": 5,
+      "type": "thought",
+      "description": "I don't have enough money"
+    },
+    {
+      "symptomId": 6,
+      "type": "thought",
+      "description": "I feel hopeless"
+    },
+    {
+      "symptomId": 7,
+      "type": "thought",
+      "description": "I feel trapped"
+    },
+    {
+      "symptomId": 8,
+      "type": "thought",
+      "description": "I screwed up/made a mistake"
+    },
+    {
+      "symptomId": 9,
+      "type": "thought",
+      "description": "I'll never be able to (fill in the blank)"
+    },
+    {
+      "symptomId": 10,
+      "type": "thought",
+      "description": "I'm a failure."
+    },
+    {
+      "symptomId": 11,
+      "type": "thought",
+      "description": "I'm afraid I'm going to die - something physically is wrong"
+    },
+    {
+      "symptomId": 12,
+      "type": "thought",
+      "description": "This isn't going the way I think it should"
+    },
+    {
+      "symptomId": 13,
+      "type": "thought",
+      "description": "I'm afraid"
+    },
+    {
+      "symptomId": 14,
+      "type": "thought",
+      "description": "I don't like the way I was treated"
+    },
+    {
+      "symptomId": 15,
+      "type": "thought",
+      "description": "I'm angry"
+    },
+    {
+      "symptomId": 16,
+      "type": "thought",
+      "description": "I'm not as good as they are"
+    },
+    {
+      "symptomId": 17,
+      "type": "thought",
+      "description": "I'm right.  They are wrong"
+    },
+    {
+      "symptomId": 18,
+      "type": "thought",
+      "description": "I'm worried"
+    },
+    {
+      "symptomId": 19,
+      "type": "thought",
+      "description": "I'm wrong. They are right"
+    },
+    {
+      "symptomId": 20,
+      "type": "thought",
+      "description": "If they did it, I should be able to too"
+    },
+    {
+      "symptomId": 21,
+      "type": "thought",
+      "description": "If this is happening, then something else (not good) will happen too"
+    },
+    {
+      "symptomId": 22,
+      "type": "thought",
+      "description": "They are laughing at me/out to get me"
+    },
+    {
+      "symptomId": 23,
+      "type": "thought",
+      "description": "They don't like/respect me"
+    },
+    {
+      "symptomId": 24,
+      "type": "thought",
+      "description": "They screwed up"
+    },
+    {
+      "symptomId": 25,
+      "type": "thought",
+      "description": "This current situation won't stop or get better"
+    },
+    {
+      "symptomId": 26,
+      "type": "thought",
+      "description": "This feeling will never end"
+    },
+    {
+      "symptomId": 27,
+      "type": "thought",
+      "description": "This is a sign I shouldn't be doing this"
+    },
+    {
+      "symptomId": 28,
+      "type": "thought",
+      "description": "This is sign of a much bigger problem"
+    },
+    {
+      "symptomId": 29,
+      "type": "thought",
+      "description": "If this doesn't get done right now, I'm in trouble"
+    },
+    {
+      "symptomId": 30,
+      "type": "thought",
+      "description": "This will not go well"
+    },
+    {
+      "symptomId": 31,
+      "type": "thought",
+      "description": "This/I am getting worse"
+    },
+    {
+      "symptomId": 32,
+      "type": "thought",
+      "description": "What did I do to deserve this?"
+    },
+    {
+      "symptomId": 33,
+      "type": "thought",
+      "description": "Why haven't they gotten back to me?"
+    },
+    {
+      "symptomId": 34,
+      "type": "thought",
+      "description": "Why is this happening to me?"
+    },
+    {
+      "symptomId": 35,
+      "type": "thought",
+      "description": "Will I ever feel better?"
+    },
+    {
+      "symptomId": 36,
+      "type": "sensation",
+      "description": "Aches & pains"
+    },
+    {
+      "symptomId": 37,
+      "type": "sensation",
+      "description": "Agitated"
+    },
+    {
+      "symptomId": 38,
+      "type": "sensation",
+      "description": "Clenched jaw / grinding teeth"
+    },
+    {
+      "symptomId": 39,
+      "type": "sensation",
+      "description": "Difficulty breathing"
+    },
+    {
+      "symptomId": 40,
+      "type": "sensation",
+      "description": "Dry mouth"
+    },
+    {
+      "symptomId": 41,
+      "type": "sensation",
+      "description": "Headache"
+    },
+    {
+      "symptomId": 42,
+      "type": "sensation",
+      "description": "Insomnia"
+    },
+    {
+      "symptomId": 43,
+      "type": "sensation",
+      "description": "Light-headed"
+    },
+    {
+      "symptomId": 44,
+      "type": "sensation",
+      "description": "Low-energy"
+    },
+    {
+      "symptomId": 45,
+      "type": "sensation",
+      "description": "Muscle tightness"
+    },
+    {
+      "symptomId": 46,
+      "type": "sensation",
+      "description": "Nervousness"
+    },
+    {
+      "symptomId": 47,
+      "type": "sensation",
+      "description": "Palpitations"
+    },
+    {
+      "symptomId": 48,
+      "type": "sensation",
+      "description": "Racing heart"
+    },
+    {
+      "symptomId": 49,
+      "type": "sensation",
+      "description": "Shaky, trembling"
+    },
+    {
+      "symptomId": 50,
+      "type": "sensation",
+      "description": "Sweaty palms"
+    },
+    {
+      "symptomId": 51,
+      "type": "sensation",
+      "description": "Tightness in the chest"
+    },
+    {
+      "symptomId": 52,
+      "type": "sensation",
+      "description": "Tightness in the throat"
+    },
+    {
+      "symptomId": 53,
+      "type": "sensation",
+      "description": "Upset stomach"
+    }
+  ],
+  "spots": [
+    {
+      "spotId": 1,
+      "spotTitle": "A thought started it.  A thought can end it.",
+      "spotDescription": "We can't help the initial worrisome thought that pops into our mind.  What we can do is replace the negative thought with a positive one, which will help us feel more secure. Many of us have a habit of worrying.  We think that the worry will protect us.  This is a thought habit we can change.",
+      "spotSituations": [
+        13,
+        9,
+        25,
+        27
+      ],
+      "spotSymptoms": [
+        1,
+        2,
+        11,
+        16
+      ]
+    },
+    {
+      "spotId": 2,
+      "spotTitle": "All temper comes with the secret pleasure of vanity.",
+      "spotDescription": "Being angry gives us a false sense feeling \"better than\". We feel our righteousness serves us in some way - but all it does is continue to fuel the negative, unhealthy emotion.",
+      "spotSituations": [
+        5,
+        29,
+        24,
+        9
+      ],
+      "spotSymptoms": [
+        15,
+        17,
+        10,
+        22
+      ]
+    },
+    {
+      "spotId": 3,
+      "spotTitle": "Angry temper - I'm judging the other person as wrong",
+      "spotDescription": "Angry temper is when we feel we have been wronged by someone else's actions or words.  What's more, we feel as if it has been intentionally done to us. Judging another, and the anger that comes with it, only increases our symptoms. When we make a decision to drop the judgement on the other person, we reduce our angry symptoms and begin to feel better.",
+      "spotSituations": [
+        2,
+        28,
+        24,
+        12
+      ],
+      "spotSymptoms": [
+        24,
+        14,
+        12,
+        15
+      ]
+    },
+    {
+      "spotId": 4,
+      "spotTitle": "An endorsed person is a secure person.",
+      "spotDescription": "Endorsing is giving ourselves credit for all that we have done.  When we endorse ourselves, we are approving of ourselves.  Endorsing ourselves is important as it helps us to feel more secure, and overtime, it will increase our self-confidence and self-respect.",
+      "spotSituations": [
+        6,
+        31,
+        30,
+        20
+      ],
+      "spotSymptoms": [
+        8,
+        30,
+        23,
+        9
+      ]
+    },
+    {
+      "spotId": 5,
+      "spotTitle": "Any decision will steady us.",
+      "spotDescription": "There is no power in indecision.  Often it leaves us in a \"wobbly\", stressful place.  Making any decision will steady us.  And lining-up with that decision after we've made it provides maximum relief.  (Note: Making a decision that you will decide later, is a decision that will also steady you.)",
+      "spotSituations": [
+        15,
+        21,
+        23,
+        3
+      ],
+      "spotSymptoms": [
+        4,
+        27,
+        7,
+        3
+      ]
+    },
+    {
+      "spotId": 6,
+      "spotTitle": "Approval is a want not a need.",
+      "spotDescription": "We may want the approval of others, but truth be told, we don't need it.  What's most important for our mental fitness is that we approve of ourselves.  When we seek the unreliable and ever-fickle approval of others and don't get it, we feel stress and anxiety.  When we approve of ourselves, we create inner-security and more peace of mind.",
+      "spotSituations": [
+        5,
+        7,
+        20,
+        19
+      ],
+      "spotSymptoms": [
+        9,
+        16,
+        20,
+        23
+      ]
+    },
+    {
+      "spotId": 7,
+      "spotTitle": "Be predisposed to disappointments every 15 minutes and you won't be disappointed.",
+      "spotDescription": "Life is not perfect and undoubtedly there will be frustrations throughout our day. If we come to expect some frustration as a normal course of business, we won't be blindsided or so upset when they happen.",
+      "spotSituations": [
+        32,
+        33,
+        34,
+        10
+      ],
+      "spotSymptoms": [
+        33,
+        34,
+        25,
+        28
+      ]
+    },
+    {
+      "spotId": 8,
+      "spotTitle": "Be self-led, not symptom led.",
+      "spotDescription": "Even though we might be experiencing physical symptoms or thoughts symptoms, we can still function.  (Assuming you have had any persistent symptoms checked by your doctor.)  When we are self-led and don't let our symptoms dictate our actions, we develop a sense of pride which boosts our self-esteem.",
+      "spotSituations": [
+        19,
+        16,
+        18,
+        29
+      ],
+      "spotSymptoms": [
+        6,
+        13,
+        7,
+        19
+      ]
+    },
+    {
+      "spotId": 9,
+      "spotTitle": "Calm brings calm.",
+      "spotDescription": "When we feel our symptoms come on, we can become more agitated.  But when we stay calm, we direct our body/mind to be calm.  Our symptoms will calm down as we intentionally direct our thoughts and our body to calm too.",
+      "spotSituations": [
+        26,
+        1,
+        13,
+        21
+      ],
+      "spotSymptoms": [
+        21,
+        26,
+        29,
+        35
+      ]
+    },
+    {
+      "spotId": 10,
+      "spotTitle": "Comfort is a want, not a need.",
+      "spotDescription": "We all want to be comfortable.  However, life is not always comfortable.  It's comforting to know that we can still function even though we feel uncomfortable.   When we acknowledge that it's not dangerous to feel discomfort, we can actually creating more comfort.",
+      "spotSituations": [
+        7,
+        1,
+        18,
+        17
+      ],
+      "spotSymptoms": [
+        2,
+        25,
+        32,
+        33
+      ]
+    },
+    {
+      "spotId": 11,
+      "spotTitle": "Comparisons are harmful.",
+      "spotDescription": "When we compare ourselves unfavorably to others, we create insecurity and tension in ourselves.  What's more, the comparison is often based upon unreal \"truths\" about ourselves and the other person.  Comparing ourselves to others is a very important habit to stop in its tracks!",
+      "spotSituations": [
+        11,
+        31,
+        33,
+        9
+      ],
+      "spotSymptoms": [
+        5,
+        16,
+        22,
+        10
+      ]
+    },
+    {
+      "spotId": 12,
+      "spotTitle": "Consult your plans, not your feelings.",
+      "spotDescription": "Feeling insecure, fearful or anxious can distracted us from following through on our plans.  If this happens, the best course of action is to focus on the plan and not our feelings.  Sticking to the plan helps us accomplish the task-at-hand and keep us productive.  Sticking to the plan will cause a positive emotional payoff as we'll feel better about ourselves when we achieve the goal.",
+      "spotSituations": [
+        16,
+        20,
+        21,
+        32
+      ],
+      "spotSymptoms": [
+        3,
+        2,
+        13,
+        15
+      ]
+    },
+    {
+      "spotId": 13,
+      "spotTitle": "Do the things you fear the most and this will take away the anxiety.",
+      "spotDescription": "When we do the things we fear, we develop confidence -- teaching ourselves, that if we've done it before, we can do it again.  Our world expands when we no longer permit our fears to stop us.",
+      "spotSituations": [
+        8,
+        3,
+        30,
+        12
+      ],
+      "spotSymptoms": [
+        13,
+        27,
+        7,
+        30
+      ]
+    },
+    {
+      "spotId": 14,
+      "spotTitle": "Do things in \"part\" acts - one step at a time.",
+      "spotDescription": "When we look at the big picture and all that needs to be done, we can become overwhelmed.  Doing things in \"part acts\" means tackling one task at a time, making accomplishing the entire project much easier.",
+      "spotSituations": [
+        10,
+        18,
+        23,
+        34
+      ],
+      "spotSymptoms": [
+        9,
+        10,
+        26,
+        31
+      ]
+    },
+    {
+      "spotId": 15,
+      "spotTitle": "Don't give your peace of mind away to it.",
+      "spotDescription": "Since our peace of mind is our primary goal, we must protect it.  But how do we do that?  We protect our peace of mind by making a conscious decision not give or trade-away our peace of mind away to any person or situation.",
+      "spotSituations": [
+        34,
+        7,
+        28,
+        15
+      ],
+      "spotSymptoms": [
+        4,
+        1,
+        18,
+        24
+      ]
+    },
+    {
+      "spotId": 16,
+      "spotTitle": "Don't make an emergency out of it.",
+      "spotDescription": "Most situations we experience aren't real emergencies, but often we react as if they are.  When we misinterpret something as dangerous or as an emergency, we create tension, anxiety and stress in ourselves.  This spot helps us reframe our reaction.  When we don't feed into our \"emergency\" reaction, we are doing ourselves a favor by creating more relaxation.",
+      "spotSituations": [
+        27,
+        1,
+        20,
+        14
+      ],
+      "spotSymptoms": [
+        26,
+        28,
+        32,
+        35
+      ]
+    },
+    {
+      "spotId": 17,
+      "spotTitle": "Don't put a time limit on when the feelings will stop.",
+      "spotDescription": "Time limits create an expectation. When that expectation isn't met, we tend to work ourselves up. Time limits only add frustration - so do your best not to add them.",
+      "spotSituations": [
+        4,
+        26,
+        25,
+        29
+      ],
+      "spotSymptoms": [
+
+      ]
+    },
+    {
+      "spotId": 18,
+      "spotTitle": "Don't talk to anyone who is not in the room with you.",
+      "spotDescription": "When we play out situations in our head -- or replay past conversations, we work ourselves up and create symptoms.  Our body and minds think the situation is happening again and we increase our stress.  A good rule of thumb is not to have conversations with anyone who is not in the room with us!",
+      "spotSituations": [
+        12,
+        28,
+        27,
+        11
+      ],
+      "spotSymptoms": [
+        4,
+        15,
+        17,
+        28
+      ]
+    },
+    {
+      "spotId": 19,
+      "spotTitle": "Drop the judgement on yourself and others.",
+      "spotDescription": "The more we hold judgment of ourselves or others we are creating more temper. Dropping this judgment releases our temper and we relax.  We drop our judgement for the sake of our peace of mind, which is our supreme goal.",
+      "spotSituations": [
+        2,
+        28,
+        29,
+        7
+      ],
+      "spotSymptoms": [
+        1,
+        19,
+        8,
+        10
+      ]
+    },
+    {
+      "spotId": 20,
+      "spotTitle": "Fearful temper - I'm judging myself as wrong.",
+      "spotDescription": "When we judge ourselves as wrong or not good enough we create tension in our mind and bodies.  This judgement is one of the main seeds that produces fear and symptoms.",
+      "spotSituations": [
+        6,
+        13,
+        31,
+        33
+      ],
+      "spotSymptoms": [
+        19,
+        12,
+        5,
+        3
+      ]
+    },
+    {
+      "spotId": 21,
+      "spotTitle": "Feelings are not facts; they lie and deceive us and tell us of danger when there is none.  ",
+      "spotDescription": "Feelings are real, but our interpretation of them may not be.  Sometimes they suggest danger when there isn't any.  When we add danger to discomfort we build anxiety and even panic.",
+      "spotSituations": [
+        3,
+        4,
+        14,
+        17
+      ],
+      "spotSymptoms": [
+        6,
+        7,
+        23,
+        27
+      ]
+    },
+    {
+      "spotId": 22,
+      "spotTitle": "Have the courage to make a mistake.",
+      "spotDescription": "Mistakes are a normal part of life and of learning.  It takes courage to take risks.  We learn and grow from our mistakes.  Having the courage to make a mistake helps us lead fuller, richer and more interesting lives.",
+      "spotSituations": [
+        1,
+        5,
+        6,
+        30
+      ],
+      "spotSymptoms": [
+        3,
+        32,
+        8,
+        29
+      ]
+    },
+    {
+      "spotId": 23,
+      "spotTitle": "Humor is our best friend.",
+      "spotDescription": "Finding humor in ourselves or with situations will reduce our stress and anxiety.  It's hard to be afraid or angry and in humor at the same time. We can laugh at our own over reactions.  Sometimes it's as easy as saying \"Ooops, there I go again.\"",
+      "spotSituations": [
+        23,
+        28,
+        25,
+        19
+      ],
+      "spotSymptoms": [
+        11,
+        17,
+        20,
+        21
+      ]
+    },
+    {
+      "spotId": 24,
+      "spotTitle": "I can say anything in a cultured manner.",
+      "spotDescription": "No matter how we are feeling we can always express yourself calmly. We don't have to speak in a aggressive way to express how we are feeling. For example, we can tell someone we are angry without being angry in our tone, words or body language.",
+      "spotSituations": [
+        24,
+        21,
+        7,
+        5
+      ],
+      "spotSymptoms": [
+        24,
+        33,
+        22,
+        29
+      ]
+    },
+    {
+      "spotId": 25,
+      "spotTitle": "\"I don't like it\", \"I don't want it\" and \"It shouldn't be\" are all forms of angry temper.",
+      "spotDescription": "When we don't accept situations as they are, we unknowingly create temper within ourselves.  That temper is what leads to our symptoms of stress and anxiety.  When you notice yourself having these types of thoughts, don't entertain them.  Drop them.",
+      "spotSituations": [
+        10,
+        8,
+        18,
+        21
+      ],
+      "spotSymptoms": [
+        18,
+        14,
+        34,
+        35
+      ]
+    },
+    {
+      "spotId": 26,
+      "spotTitle": "If you cannot change an event, change your attitude towards it.",
+      "spotDescription": "We learn that it's not the situation that causes us stress and anxiety but our reaction to it.  That includes our attitude.  If we want to lower our stress and anxiety the thing to change is our attitude.  That we have control over.  A secure attitude or an attitude that reduces are fear or anger will lessen our tension and increase our peace of mind.",
+      "spotSituations": [
+        13,
+        22,
+        26,
+        32
+      ],
+      "spotSymptoms": [
+        14,
+        30,
+        31,
+        34
+      ]
+    },
+    {
+      "spotId": 27,
+      "spotTitle": "It's average to sabotage.",
+      "spotDescription": "It's normal to do or think in ways that create stress and anxiety.  It's average to undermine ourselves.  When we do sabotage, we can become aware of it.  Then, keep it to a minimum.  You may even use some self-humor, by telling yourself \"ooops, there I go again.\"",
+      "spotSituations": [
+        9,
+        11,
+        22,
+        17
+      ],
+      "spotSymptoms": [
+        20,
+        21,
+        25,
+        16
+      ]
+    },
+    {
+      "spotId": 28,
+      "spotTitle": "It's distressing, but not dangerous.",
+      "spotDescription": "We may feel uncomfortable is certain situations, but that does not mean the situation is dangerous.  When we add the thought of danger we work ourselves up and create more anxiety. This spot works us down.  We can get through difficult situation with more peace and less anxiety.",
+      "spotSituations": [
+        16,
+        8,
+        14,
+        26
+      ],
+      "spotSymptoms": [
+        12,
+        35,
+        34,
+        28
+      ]
+    },
+    {
+      "spotId": 29,
+      "spotTitle": "It's how we function - not how we feel.",
+      "spotDescription": "When we are feeling stressed or anxious, we may think that we can't function because of these feelings. This is the essence of the method.  Learning how to take positive action in spite of how we are feeling.  We can function despite these feelings and when we do, that is when we grow the most.",
+      "spotSituations": [
+        3,
+        20,
+        6,
+        7
+      ],
+      "spotSymptoms": [
+        9,
+        10,
+        7,
+        25
+      ]
+    },
+    {
+      "spotId": 30,
+      "spotTitle": "It's O.K. to be average. (And average does not mean mediocre.)",
+      "spotDescription": "Expecting perfection from ourselves, from others and from life itself is unrealistic.  Frustrations, mistakes and discomfort are average occurrences.  When we expect perfection, we create disappointment and worry which causes us stress and anxiety.",
+      "spotSituations": [
+        22,
+        29,
+        15,
+        19
+      ],
+      "spotSymptoms": [
+        21,
+        23,
+        26,
+        5
+      ]
+    },
+    {
+      "spotId": 31,
+      "spotTitle": "Lower the standard for others and their performance will rise.",
+      "spotDescription": "Sometimes we have expectations for others that are too high or unrealistic.  When they don't meet our standards we may feel disappointed or upset.  We are now in temper.  We can lower our standards for the sake of our peace of mind.  They may not change but we can.",
+      "spotSituations": [
+        5,
+        4,
+        12,
+        33
+      ],
+      "spotSymptoms": [
+        33,
+        24,
+        15,
+        28
+      ]
+    },
+    {
+      "spotId": 32,
+      "spotTitle": "Many people don't like change.",
+      "spotDescription": "Often change can make us feel stressed - even if it is a good change, it's important to remember that this is an \"average\" or normal reaction and that you can navigate successfully through any change.",
+      "spotSituations": [
+        1,
+        34,
+        10,
+        30
+      ],
+      "spotSymptoms": [
+        27,
+        25,
+        32,
+        29
+      ]
+    },
+    {
+      "spotId": 33,
+      "spotTitle": "Objectivity will terminate a panic.",
+      "spotDescription": "We practice the Spot-It method when we are feeling anxiety or the start of panic it will turn off the runaway train of our brain.  Now is the time to make a 5-minute phone call, read uplifting material, work on a project.  Do something real, something that will take your mind off the symptoms you are feeling.",
+      "spotSituations": [
+        8,
+        34,
+        3,
+        26
+      ],
+      "spotSymptoms": [
+        26,
+        28,
+        34,
+        35
+      ]
+    },
+    {
+      "spotId": 34,
+      "spotTitle": "One inner endorsement is worth 1,000 outer endorsements.",
+      "spotDescription": "We often look to others for approval.  This spot teaches us that the most important form of approval is the kind we give ourselves.  We call it inner endorsement.  While others may reject or criticize us, our own approval is most important and builds our peace of mind.",
+      "spotSituations": [
+        9,
+        6,
+        2,
+        20
+      ],
+      "spotSymptoms": [
+        16,
+        8,
+        23,
+        32
+      ]
+    },
+    {
+      "spotId": 35,
+      "spotTitle": "Our peace of mind is our primary goal.",
+      "spotDescription": "If we want to reduce our stress and anxiety, we need to decide that our peace of mind is our primary goal.  With each situation ask ourselves, what is more important, my peace of mind or being right?   Then we drop our temper toward the other person, ourselves or the situation, for the sake of our peace of mind.",
+      "spotSituations": [
+        34,
+        5,
+        9,
+        11
+      ],
+      "spotSymptoms": [
+        18,
+        30,
+        31,
+        1
+      ]
+    },
+    {
+      "spotId": 36,
+      "spotTitle": "People do things that annoy us, not to annoy us.",
+      "spotDescription": "No doubt, people do things that annoy us.  Often, when we feel annoyed, we think that the person did it on purpose. When we do this the annoyance just go increased and so did our temper, which leads to more symptoms.   Although we are annoyed, consider that it was not intentional.  This spot will work us down and create more peace of mind.",
+      "spotSituations": [
+        2,
+        4,
+        31,
+        12
+      ],
+      "spotSymptoms": [
+        14,
+        32,
+        33,
+        22
+      ]
+    },
+    {
+      "spotId": 37,
+      "spotTitle": "Plan, decide and act.",
+      "spotDescription": "When unsure of what to do, the key is to make a plan or a decision and then act on it.  Any plan will steady us. It doesn't have to be perfect.  Making a plan gives us a focus and lessen the feeling of stress and anxiety.  Having a plan and taking action helps us feel more secure in a stressful situation.",
+      "spotSituations": [
+        28,
+        30,
+        21,
+        15
+      ],
+      "spotSymptoms": [
+        2,
+        4,
+        12,
+        13
+      ]
+    },
+    {
+      "spotId": 38,
+      "spotTitle": "Possibilities vs. probabilities.  It's possible, but it's not probable.",
+      "spotDescription": "We get worked up by the thought of something happening.  It seems like a realistic outcome and that's what gives it so much energy.  But we can stop and ask ourselves \"is this outcome a possibility or a probability?\"  When we take the probability of the outcome into the equation this starts the process of working ourselves down and creating more security.  Is it possible, maybe.  But is it probable?  Typically, the answer is no.",
+      "spotSituations": [
+        16,
+        18,
+        17,
+        3
+      ],
+      "spotSymptoms": [
+        21,
+        26,
+        27,
+        31
+      ]
+    },
+    {
+      "spotId": 39,
+      "spotTitle": "Processing keeps us in symptoms.",
+      "spotDescription": "Thinking about or reliving situations over and over in our minds keeps us \"worked-up\".  Instead of making us feel better, it makes our anxious symptoms stronger.  Remember, we can control our thoughts. When you notice yourself in this pattern you can stop it by just saying the word \"processing\".",
+      "spotSituations": [
+        25,
+        19,
+        23,
+        22
+      ],
+      "spotSymptoms": [
+        30,
+        20,
+        17,
+        11
+      ]
+    },
+    {
+      "spotId": 40,
+      "spotTitle": "Self-control leads to self-respect.",
+      "spotDescription": "When we use our self-control and react in positive ways we build up our own self confidence and inner security.  This behavior leads to less symptoms and more peace of mind.  We strengthen our mental fitness one act at a time.",
+      "spotSituations": [
+        4,
+        19,
+        29,
+        28
+      ],
+      "spotSymptoms": [
+        2,
+        33,
+        17,
+        4
+      ]
+    },
+    {
+      "spotId": 41,
+      "spotTitle": "Spot-It™ and drop it.",
+      "spotDescription": "When you notice yourself in mental or physical symptoms, choose a spot and repeat it.  As we \"spot it\" the sabotaging behavior, we also \"drop\" the insecure, fearful or angry thought patterns that are causing our stress and anxiety.",
+      "spotSituations": [
+        35,
+        13,
+        22,
+        14
+      ],
+      "spotSymptoms": [
+        7,
+        10,
+        21,
+        24
+      ]
+    },
+    {
+      "spotId": 42,
+      "spotTitle": "Strive for effort, not relief, and then the relief will come.",
+      "spotDescription": "When feeling agitated we want relief.  It may come in the form of an angry outburst or avoiding an action.  In these instances, we sought relief instead of using the effort of self-control.  When we use our self-control first instead of acting out, the relief eventually comes and we have the benefit of building our self-esteem through positive action.",
+      "spotSituations": [
+        3,
+        30,
+        26,
+        35
+      ],
+      "spotSymptoms": [
+        6,
+        27,
+        18,
+        21
+      ]
+    },
+    {
+      "spotId": 43,
+      "spotTitle": "Take a \"ho-hum\" attitude towards a distressing task or symptom.",
+      "spotDescription": "Instead of worrying or getting upset about your symptoms, try taking a loose and easy going attitude.  This will tell your brain and your body that there is no danger here and you will work yourself back toward peace.",
+      "spotSituations": [
+        35,
+        13,
+        14,
+        23
+      ],
+      "spotSymptoms": [
+        26,
+        11,
+        8,
+        14
+      ]
+    },
+    {
+      "spotId": 44,
+      "spotTitle": "Take the secure thought...",
+      "spotDescription": "A secure thought is a positive thought, assuming a positive outcome, or a good perspective about ourselves or others.  Each time we choose a secure thought instead of an insecure or anger thought, we lower our symptoms and build up our inner sense of security.",
+      "spotSituations": [
+        35,
+        23,
+        15,
+        32
+      ],
+      "spotSymptoms": [
+        28,
+        30,
+        31,
+        29
+      ]
+    },
+    {
+      "spotId": 45,
+      "spotTitle": "Take the total view of a situation, not just a partial view.",
+      "spotDescription": "It's easy to focus our attention on a negative aspect of a situation. It's like looking at one small scratch on a wall and assuming that the whole wall is bad.  But if we step back, we can see that as a whole the wall is in good shape with only one small scratch. The total view gives us a more healthy, balances and secure perspective.  This applies to situations, relationships and our lives.",
+      "spotSituations": [
+        27,
+        24,
+        4,
+        22
+      ],
+      "spotSymptoms": [
+        3,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "spotId": 46,
+      "spotTitle": "Temper blinds us to the other side of the story.",
+      "spotDescription": "When we are mad, we are only focused on ourselves and are blinded to other perspectives.  When you drop the anger, you can see the other side of the story and engage in a more fair and balanced manner.",
+      "spotSituations": [
+        27,
+        25,
+        33,
+        9
+      ],
+      "spotSymptoms": [
+        10,
+        9,
+        17,
+        19
+      ]
+    },
+    {
+      "spotId": 47,
+      "spotTitle": "The body, mind and soul are self-healing organisms.",
+      "spotDescription": "It's encouraging to know that it's our nature to get better.  This thought will counter the fearful assumption that we or a situation won't get better.  Secure thoughts will create comfort in our minds, create more security and relaxation in our body and lessen our symptoms.",
+      "spotSituations": [
+        18,
+        34,
+        3,
+        15
+      ],
+      "spotSymptoms": [
+        6,
+        35,
+        28,
+        11
+      ]
+    },
+    {
+      "spotId": 48,
+      "spotTitle": "The world can be rude, crude and indifferent.",
+      "spotDescription": "We often expect people and situations to be on our side and when they don't treat us the way we want we get upset. When we can accept their attitudes and actions toward us, we give up our upset and relax.",
+      "spotSituations": [
+        28,
+        2,
+        5,
+        6
+      ],
+      "spotSymptoms": [
+        32,
+        33,
+        23,
+        1
+      ]
+    },
+    {
+      "spotId": 49,
+      "spotTitle": "There is no right or wrong in trivial matters.",
+      "spotDescription": "When we think in terms of right and wrong, we can easily get into symptoms.  In most of life, we deal with trivial or common matters where right and wrong are not accurate assumptions.  When we give up the fight for right and wrong in these common situations, we release the source of our symptoms.  Then we can relax and move toward peace of mind.",
+      "spotSituations": [
+        24,
+        25,
+        35,
+        15
+      ],
+      "spotSymptoms": [
+        18,
+        17,
+        24,
+        14
+      ]
+    },
+    {
+      "spotId": 50,
+      "spotTitle": "To analyze is to paralyze.",
+      "spotDescription": "Over-analyzing a situation works us up.   We keep thinking and thinking which can create fear, worry and doubt.  Whenever we do this, we are creating stress.  Often, we are looking for a perfect solution, which does not exist.  When we stop over-analyzing we become more present and more productive overall.",
+      "spotSituations": [
+        30,
+        1,
+        6,
+        11
+      ],
+      "spotSymptoms": [
+        4,
+        8,
+        18,
+        31
+      ]
+    },
+    {
+      "spotId": 51,
+      "spotTitle": "To know is not to know.",
+      "spotDescription": "Often we make up reasons for why something happend.  When those assumptions are fueled by insecure, angry or fearful thoughts, we work ourselves up.  To stop that train, we can tell ourselves, \"we don't really know why.\"  This will stop us from working ourselves up.  Now, we either assume positive reasons or none at all.",
+      "spotSituations": [
+        2,
+        6,
+        33,
+        18
+      ],
+      "spotSymptoms": [
+        1,
+        35,
+        34,
+        32
+      ]
+    },
+    {
+      "spotId": 52,
+      "spotTitle": "Trivialities cause the most symptoms.",
+      "spotDescription": "Most situations in life are trivialities, but we react as if they are emergencies.  This reaction creates stress and anxiety.  Ask yourself, how important is this compared to the bigger picture or my peace of mind?",
+      "spotSituations": [
+        7,
+        6,
+        10,
+        1
+      ],
+      "spotSymptoms": [
+        3,
+        33,
+        29,
+        24
+      ]
+    },
+    {
+      "spotId": 53,
+      "spotTitle": "Try fail, try fail, try succeed.",
+      "spotDescription": "It doesn't take long to pick up a bad habit, but it takes considerable practice to create a new, positive habit.  Don't get frustrated if we don't change quickly.  Keep trying with the knowledge that we will get better.  Keep practicing and be kind to ourselves.",
+      "spotSituations": [
+        9,
+        19,
+        5,
+        33
+      ],
+      "spotSymptoms": [
+        10,
+        8,
+        20,
+        3
+      ]
+    },
+    {
+      "spotId": 54,
+      "spotTitle": "We are keen observers and poor interpreters.",
+      "spotDescription": "Anxiety, fear and anger are often by products of misinterpretation.  We are good at taking a simple observation and building into an incorrect interpretation.  It's our misinterpretation that leads to building up our stress and anxiety.",
+      "spotSituations": [
+        2,
+        6,
+        28,
+        4
+      ],
+      "spotSymptoms": [
+        16,
+        22,
+        27,
+        1
+      ]
+    },
+    {
+      "spotId": 55,
+      "spotTitle": "We drop our temper when we learn that we are its casualty.",
+      "spotDescription": "When we are in temper, we are the ones who feel it.  We give up our temper, anger or fear, because it is hurting us.  It has nothing to do with the other person or the situation.  The temper is causing us pain.  When we realize this, we learn to drop it for the sake of our own mental fitness and peace of mind.",
+      "spotSituations": [
+        27,
+        28,
+        12,
+        7
+      ],
+      "spotSymptoms": [
+        15,
+        13,
+        29,
+        33
+      ]
+    },
+    {
+      "spotId": 56,
+      "spotTitle": "We make our greatest gains practicing in discomfort.",
+      "spotDescription": "Learning how to function in discomfort makes us more resilient and gives us confidence to do it again.  These are important gains when dealing with well-being.  Before Spot-It, we often look to avoid discomfort which can create more of it.  With Spot-It, we learn that these moments give us the best chance to grow and get better.",
+      "spotSituations": [
+        3,
+        32,
+        6,
+        20
+      ],
+      "spotSymptoms": [
+        7,
+        13,
+        20,
+        27
+      ]
+    },
+    {
+      "spotId": 57,
+      "spotTitle": "Without imagination and temper, there are no symptoms.",
+      "spotDescription": "Our imagination is a powerful tool but when it starts to run down a road of fearful, worrisome or angry thoughts it builds up our stress, anxiety and panic.  But we learn that when we gain control over our imagination and our temper we have the ability to relax and be at peace.",
+      "spotSituations": [
+        8,
+        17,
+        16,
+        31
+      ],
+      "spotSymptoms": [
+        23,
+        26,
+        4,
+        5
+      ]
+    },
+    {
+      "spotId": 58,
+      "spotTitle": "Worry is an attempt to control the outer environment; there is room for concern, not despair.",
+      "spotDescription": "We think that worrying helps to protect us, but this is not true.  Worry won't create a positive outcome.  It creates more tension in us which leads to more symptoms.",
+      "spotSituations": [
+        3,
+        17,
+        18,
+        35
+      ],
+      "spotSymptoms": [
+        18,
+        26,
+        31,
+        9
+      ]
+    },
+    {
+      "spotId": 59,
+      "spotTitle": "You were suggestible to a thought.",
+      "spotDescription": "We have no control over the thoughts that pop into our mind or that are suggested by someone else.  Often, thoughts that are not true, grab our attention and we think we have to address them.  Then we start thinking about them more and more and before long we are in symptoms, all based on a bogus thought.",
+      "spotSituations": [
+        5,
+        16,
+        11,
+        32
+      ],
+      "spotSymptoms": [
+        19,
+        11,
+        27,
+        25
+      ]
+    },
+    {
+      "spotId": 60,
+      "spotTitle": "Excuse rather than accuse.",
+      "spotDescription": "Our main goal is peace of mind.  When we accuse someone, we create an angry temper which leads to feeling stress and anxiety.  One of the quickest remedies is to excuse them rather than accusing them which will release our temper and create more peace of mind.  What is more important, being right or being at peace?",
+      "spotSituations": [
+        29,
+        31,
+        10,
+        5
+      ],
+      "spotSymptoms": [
+        24,
+        1,
+        33,
+        23
+      ]
+    }
+  ],
+  "endorsements": [
+    {
+      "endorsementId": 1,
+      "description": "For breaking a negative habit"
+    },
+    {
+      "endorsementId": 2,
+      "description": "For changing my belief"
+    },
+    {
+      "endorsementId": 3,
+      "description": "For doing household chores"
+    },
+    {
+      "endorsementId": 4,
+      "description": "For doing something fun"
+    },
+    {
+      "endorsementId": 5,
+      "description": "For doing something I was afraid to do"
+    },
+    {
+      "endorsementId": 6,
+      "description": "For doing something nice for myself"
+    },
+    {
+      "endorsementId": 7,
+      "description": "For doing things even while in symptoms"
+    },
+    {
+      "endorsementId": 8,
+      "description": "For doing work-related responsibilities"
+    },
+    {
+      "endorsementId": 9,
+      "description": "For fixing or repairing something"
+    },
+    {
+      "endorsementId": 10,
+      "description": "For helping someone else - family, friends, neighbors, strangers"
+    },
+    {
+      "endorsementId": 11,
+      "description": "For making positive changes in my behavior"
+    },
+    {
+      "endorsementId": 12,
+      "description": "For taking care of myself - personal care activities"
+    },
+    {
+      "endorsementId": 13,
+      "description": "For trying something new"
+    },
+    {
+      "endorsementId": 14,
+      "description": "For using the Spot-It™ method"
+    }
+  ],
+  "successes": [
+    {
+      "successId": 1,
+      "description": "I acted in a way that was considerate to others"
+    },
+    {
+      "successId": 2,
+      "description": "I changed a habit"
+    },
+    {
+      "successId": 3,
+      "description": "I changed my attitude"
+    },
+    {
+      "successId": 4,
+      "description": "I didn't get upset"
+    },
+    {
+      "successId": 5,
+      "description": "I didn't get upset as long"
+    },
+    {
+      "successId": 6,
+      "description": "I expressed myself in a calm manner"
+    },
+    {
+      "successId": 7,
+      "description": "I had courage"
+    },
+    {
+      "successId": 8,
+      "description": "I kept a positive or optimistic outlook"
+    },
+    {
+      "successId": 9,
+      "description": "I stayed calm and cool"
+    },
+    {
+      "successId": 10,
+      "description": "I was able to be objective about the situation"
+    },
+    {
+      "successId": 11,
+      "description": "I was able to move through the situation and be productive"
+    },
+    {
+      "successId": 12,
+      "description": "I was able to see that the situation wasn't dangerous"
+    },
+    {
+      "successId": 13,
+      "description": "I was able to stop the situation from escalating"
+    },
+    {
+      "successId": 14,
+      "description": "I was emotionally intelligent"
+    },
+    {
+      "successId": 15,
+      "description": "I worked myself down"
+    }
+  ]
+}
